@@ -8,7 +8,7 @@ A major goal of the Gang's Awful Resource Pack is to find all of the music discs
 
 # How do I Play / Start Cacophony of Minds?
 
-Go to CacophonyOfMinds.github.io. This is the password entry site - while the password for the first puzzle is hidden on the site itself, the rest of the passwords will come from puzzles made from the discs in the Pack. Enter each of the passwords in the textbox in the center of the site - or alternatively, edit the URL by appending the password to the end.
+Go to CacophonyOfMinds.github.io/Terminal-Dogma. This is the password entry site - while the password for the first puzzle is hidden on the site itself, the rest of the passwords will come from puzzles made from the discs in the Pack. Enter each of the passwords in the textbox in the center of the site - or alternatively, edit the URL by appending the password to the end.
 
 # Disclaimer
 

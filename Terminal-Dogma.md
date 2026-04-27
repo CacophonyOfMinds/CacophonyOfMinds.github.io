@@ -9,7 +9,7 @@
 
   <form>
     
-  <input type = "text" id="input" name = input" placeholder = "Answer..."
+  <input type = "text" id="input" name = "input" placeholder = "Answer..."
   
   </form>
     
